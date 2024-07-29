@@ -1,3 +1,4 @@
 # DBDesign
-->PK-Primary Key
-->FK-Foreign Key
+
+PK-Primary Key,
+FK-Foreign Key
